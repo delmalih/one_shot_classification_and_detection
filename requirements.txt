@@ -8,7 +8,7 @@ imgaug
 imutils
 easydict
 pickle
-tensorflow==1.14.0
+tensorflow==1.15.2
 numpy==1.15.4
 opencv-python==3.4.2.16
 opencv-contrib-python==3.4.2.16
